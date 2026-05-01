@@ -75,6 +75,7 @@
     "half",
     "sgl",
     "precision",
+    "float",
     "floating-point",
     "float16"
   ],
