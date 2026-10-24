@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-20)
+## Unreleased (2026-10-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e0b90b1`](https://github.com/stdlib-js/stdlib/commit/e0b90b18d5dfe9738cfb09f2face2b6ed91d5215) - **test:** migrate `constants/float16/ln-two` to ULP-based assertions [(#16208)](https://github.com/stdlib-js/stdlib/pull/16208) _(by Athan Reines)_
 -   [`e67e59e`](https://github.com/stdlib-js/stdlib/commit/e67e59e60a49c76c8feeafc3c400d29d477b679f) - **docs:** add missing period and align keywords in `constants/float16` [(#11849)](https://github.com/stdlib-js/stdlib/pull/11849) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
